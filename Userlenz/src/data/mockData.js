@@ -1,5 +1,5 @@
 // ============================================
-// Userlenz Mock Data
+// Summer Mock Data
 // ============================================
 
 export const templates = [
@@ -243,7 +243,7 @@ export const helpCategories = [
 ];
 
 export const helpArticles = [
-    { id: 'a1', category: 'getting-started', title: 'What is Userlenz?', updated: '2026-02-15' },
+    { id: 'a1', category: 'getting-started', title: 'What is Summer?', updated: '2026-02-15' },
     { id: 'a2', category: 'getting-started', title: 'Creating your first study', updated: '2026-02-20' },
     { id: 'a3', category: 'getting-started', title: 'Understanding the Canvas', updated: '2026-02-18' },
     { id: 'a4', category: 'study-creation', title: 'Using AI to generate studies', updated: '2026-02-25' },

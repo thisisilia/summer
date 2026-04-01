@@ -32,7 +32,7 @@ export default function Sidebar() {
             <circle cx="14" cy="14" r="3" fill="#22C55E" />
           </svg>
         </div>
-        {!collapsed && <span className="logo-text">Userlenz</span>}
+        {!collapsed && <span className="logo-text">Summer</span>}
         <button className="collapse-btn" onClick={() => setCollapsed(!collapsed)}>
           {collapsed ? <ChevronRight size={14} /> : <ChevronLeft size={14} />}
         </button>
